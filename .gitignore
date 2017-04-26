@@ -1,0 +1,5 @@
+#Source: https://github.com/dennisstritzke/money-tracker/blob/master/.gitignore
+
+**/.idea
+**/target
+**/*.iml
