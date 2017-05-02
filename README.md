@@ -2,8 +2,8 @@
 
 This program is used inside a container to test the reactions of the platform it is managed by.
 The test container used in the thesis tests can be found under https://hub.docker.com/r/rkurz/test-container/.
-The TestExecutor that runs defined tests on the container can be found under https://gitlab.nttdata-labs.com/robin.kurz/TestExecutor.
-There is also a UI for the Test Executor, found under https://gitlab.nttdata-labs.com/robin.kurz/TestSuite.
+The TestExecutor that runs defined tests on the container can be found under https://github.com/robinkurz/TestExecutor.
+There is also a UI for the Test Executor, found under https://github.com/robinkurz/TestSuite.
 
 ## Code Example
 
